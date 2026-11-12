@@ -69,6 +69,5 @@ This project demonstrates how HR analytics and machine learning can be used to p
 **Anjali Gupta**
 
 
-### Note
-This project was completed as part of an HR Analytics internship assignment and is intended for learning and analytical demonstration purposes.
+
 
